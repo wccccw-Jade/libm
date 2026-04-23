@@ -27,6 +27,7 @@ A simple CRUD web application built with CodeIgniter for managing library books.
 5. Create the database
 6. Run `php spark migrate`
 7. Start the local server with `php spark serve`
+8. Open the website from `http://localhost:8080`
 
 ## Database Fields
 
